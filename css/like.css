@@ -1,0 +1,41 @@
+.like{
+    background-color:#205a2e;
+    color:black;
+    width:70%;
+    margin-left:500px;
+}
+.card{
+    background-color: #D9EDC2;
+    margin-left:100px;
+    margin-right:100px;
+    margin-top:80px;
+    border-radius:10px;
+    padding:20px;
+}
+.box{
+    display:flex;
+    flex-direction:row;
+    gap:100px;
+}
+.one img{
+    padding-left:10px;
+}
+.card button{
+    margin-left:400px;
+    width:100px;
+    height:40px;
+    border-radius:10px;
+    background-color: #8BC34A;
+    color:white;
+}
+.like h1{
+    font-size:3rem;
+    color:white;
+    margin-left:150px;
+    padding-top:50px;
+}
+.like h3{
+    font-size:2rem;
+    color:white;
+     margin-left:150px;
+}
